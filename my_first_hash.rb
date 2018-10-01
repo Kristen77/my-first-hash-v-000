@@ -23,7 +23,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-shipping_manifest["jar of molasses"] = 10
+shipping_manifest[""] = 10
 
 shipping_manifest["gun powder"] = 4 
 
