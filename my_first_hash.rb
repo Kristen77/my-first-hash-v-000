@@ -14,7 +14,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 end
-
+pets["cat"]
 
 def adding
   shipping_manifest = {
