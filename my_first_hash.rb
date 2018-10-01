@@ -24,7 +24,7 @@ def adding
 shipping_manifest["oil paintings"]
 
 
-["hometown"] = "Massena, NY"
+shipping_manifest["muskets"] = 2 
 
 
 
